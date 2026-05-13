@@ -33,3 +33,9 @@ python main.py
 ## Notes
 
 The system integrates multiple modules including data scraping, preprocessing, event classification, and financial impact scoring. The pipeline ensures modular execution and easy experimentation with different models.
+
+## Project Demonstration Video
+
+Watch the demo here:
+
+https://drive.google.com/file/d/1dvYRuyAKkMv1vnFNvdlf3kp6oFsSJK9-/view?usp=sharing
